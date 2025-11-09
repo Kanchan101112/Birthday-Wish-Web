@@ -91,7 +91,6 @@ h1 {
 .photo {
   width: 400px;
     height: 500px;
-  display: block;
 }
 
 /* Footer love-note */
@@ -113,3 +112,4 @@ h1 {
   pointer-events: none;
   z-index: -1;
 }
+
