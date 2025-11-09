@@ -6,7 +6,7 @@ html, body {
   height: 100%;
   margin: 0;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: rgb(20, 165, 214);
   background: linear-gradient(135deg, #ff4fa3, #ff91c1);
   background-size: 400% 400%;
   animation: gradientShift 12s ease infinite;
@@ -36,7 +36,7 @@ h1 {
   font-size: 2.6rem;
   margin: 0 0 12px 0;
   color: #fff;
-  text-shadow: 0 0 10px rgba(255, 102, 178, 0.8);
+  text-shadow:0 0 10px rgba(47, 148, 243, 0.8);
   animation: fadeInDown 1s ease both;
 }
 
@@ -113,3 +113,4 @@ h1 {
   pointer-events: none;
   z-index: -1;
 }
+
